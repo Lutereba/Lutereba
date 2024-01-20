@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 eu quero ajudar as pessoas com oque elas prescisam<br>🌱estudando C#<br>💬 aberto para perguntas de python<br>⚡ tenho 12 anos
+🤝 eu quero ajudar as pessoas com oque elas prescisam<br>🌱estudando C#<br>💬 aberto para perguntas de python<br>
 
 
 ## 🌐 Socials:
