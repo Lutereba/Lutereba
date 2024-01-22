@@ -1,5 +1,6 @@
 # 💫 About Me:
-🤝 eu quero ajudar as pessoas com oque elas prescisam<br>🌱estudando C#<br>💬 aberto para perguntas de python<br>
+
+🌱estudando C#<br>💬 aberto para perguntas de python<br>
 
 
 ## 🌐 Socials:
