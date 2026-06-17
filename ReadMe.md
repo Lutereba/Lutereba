@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Lucas | Luterrbz
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00C8FF&text=Lucas%20%7C%20Luterrbz&fontColor=FFFFFF&fontSize=50&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Python+Developer;Linux+Enthusiast;Cybersecurity+Student;Hardware+%26+Networks;Future+Computer+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Python+Developer;Linux+Enthusiast;Cybersecurity+Student;Hardware+%26+Networks;Future+Computer+Engineer" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Luterrbz&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Luterrbz&label=Profile+Views&color=00C8FF&style=for-the-badge"/>
 
 </div>
 
@@ -15,23 +13,37 @@
 ## 🧑‍💻 About Me
 
 ```bash
-$ whoami
+┌──(lucas㉿luterrbz)-[~/profile]
+└─$ whoami
 
-Name............. Lucas
-Username......... Luterrbz
-Age.............. 15
-Country.......... Brazil
+Lucas
 
-Interests:
+┌──(lucas㉿luterrbz)-[~/profile]
+└─$ cat about.txt
+
+👤 Name: Lucas
+🎂 Age: 15
+🌎 Country: Brazil
+
+💻 Main Language:
+└── Python
+
+🐧 Favorite Operating System:
+└── Linux
+
+📚 Currently Learning:
 ├── Python
 ├── Linux
-├── Hardware
 ├── Networking
 ├── Cybersecurity
+├── Electronics
 └── Computer Engineering
 
-Current Status:
-└── Learning something new every day 🚀
+🎯 Goal:
+└── Become a Computer Engineer
+
+🚀 Status:
+└── Building projects and learning every day
 ```
 
 ---
@@ -46,7 +58,7 @@ Current Status:
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
 ```yaml
 Programming:
@@ -62,9 +74,8 @@ Technology:
   - Cybersecurity
   - Hardware
   - Electronics
-  - Computer Engineering
 
-Future Goals:
+Future:
   - Machine Learning
   - Reverse Engineering
   - Ethical Hacking
@@ -76,19 +87,19 @@ Future Goals:
 
 ### 📂 Download Organizer
 
-Automatic file organizer for the Downloads folder using Python.
+Automatic Downloads folder organizer built with Python.
 
 ### 🌐 Network Tools
 
-Network analysis and discovery tools.
+Tools and studies related to computer networks.
 
 ### 🤖 Arduino Projects
 
-Automation and embedded systems experiments.
+Automation and electronics projects.
 
 ### 🐧 Linux Scripts
 
-Useful Linux automation and administration scripts.
+Useful Linux administration and automation scripts.
 
 ---
 
@@ -114,7 +125,7 @@ Useful Linux automation and administration scripts.
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -134,16 +145,27 @@ Useful Linux automation and administration scripts.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Luterrbz/Luterrbz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 🎯 Roadmap 2026
 
 ```text
 [✓] Learn Linux Basics
 [✓] Learn Python Basics
 [✓] Learn Git & GitHub
+[✓] Learn Arduino Basics
 
 [ ] Improve Networking Skills
-[ ] Create Larger Projects
-[ ] Learn More Cybersecurity
+[ ] Build Larger Projects
+[ ] Learn Advanced Cybersecurity
 [ ] Learn Advanced Python
 [ ] Contribute to Open Source
 [ ] Start Computer Engineering
@@ -175,3 +197,5 @@ while(alive)
 🐍 Python • 🐧 Linux • 🌐 Networks • 🔒 Cybersecurity • ⚙️ Hardware
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:00C8FF"/>
