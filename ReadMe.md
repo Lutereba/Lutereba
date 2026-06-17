@@ -65,9 +65,9 @@ Useful scripts for Linux automation and administration.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lutereba&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutereba&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,7 +77,7 @@ Useful scripts for Linux automation and administration.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luterrbz&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutereba&theme=tokyonight&hide_border=true"/>
 
 </div>
 
