@@ -1,119 +1,144 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Olá, eu sou Lucas!
+<div align="center">
+
+# 👨‍💻 Lucas | Luterrbz
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Python+Developer;Linux+Enthusiast;Cybersecurity+Student;Future+Computer+Engineer" />
+
+</div>
+
+---
+
+## 🚀 About Me
 
 ```bash
-> whoami
+$ whoami
 
-Nome: Lucas
-Idade: 15
-Localização: Brasil
-Área de interesse: Computação
-Objetivo: Engenharia da Computação
-Status: Aprendendo algo novo todos os dias
+Name: Lucas
+Age: 15
+Country: Brazil
+Username: Luterrbz
+
+Interests:
+├── Python
+├── Linux
+├── Hardware
+├── Networking
+├── Cybersecurity
+└── Computer Engineering
 ```
 
-## 💻 Sobre mim
+---
 
-Sou um estudante apaixonado por tecnologia, programação e hardware.
+## 🛠️ Tech Stack
 
-Gosto de entender como os sistemas funcionam por dentro, desde circuitos eletrônicos até sistemas operacionais e redes de computadores.
+<div align="center">
 
-Atualmente estudo Python, Linux, Segurança da Informação e Engenharia da Computação, desenvolvendo projetos para colocar em prática meus conhecimentos.
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,arduino,cs,vscode" />
+
+</div>
 
 ---
 
-## ⚡ Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,arduino,cs,vscode,bash" />
-</p>
-
----
-
-## 🌱 Atualmente estudando
+## 🌱 Currently Learning
 
 ```yaml
-Linguagens:
+Programming:
   - Python
   - C#
 
-Sistemas:
+Operating Systems:
   - Linux
   - Windows
 
-Áreas:
-  - Redes de Computadores
-  - Segurança da Informação
+Technology:
+  - Networking
+  - Cybersecurity
   - Hardware
-  - Eletrônica Básica
-  - Engenharia da Computação
+  - Electronics
+  - Computer Engineering
 ```
 
 ---
 
-## 🚀 Projetos
+## 📊 GitHub Stats
 
-### 📂 Download Organizer
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luterrbz&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luterrbz&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 📁 Download Organizer
 
 Organizador automático da pasta Downloads utilizando Python.
 
 ### 🌐 Network Tools
 
-Ferramentas e estudos relacionados a redes de computadores.
+Ferramentas para análise e estudos de redes.
 
 ### 🤖 Arduino Projects
 
-Projetos de automação e eletrônica utilizando Arduino.
+Projetos de automação e eletrônica.
 
 ### 🐧 Linux Scripts
 
-Scripts para automação e administração de sistemas Linux.
+Scripts para automação de tarefas no Linux.
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Goals
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luterrbz&theme=tokyonight"/>
-</p>
+* Learn more about Cybersecurity
+* Build larger projects
+* Improve Python skills
+* Contribute to Open Source
+* Become a Computer Engineer
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true"/>
-</p>
-
----
-
-## 🎯 Objetivos para 2026
-
-* [ ] Aprender mais sobre Cybersecurity
-* [ ] Melhorar minhas habilidades em Python
-* [ ] Criar projetos maiores
-* [ ] Aprender mais sobre Redes
-* [ ] Entrar em Engenharia da Computação
-* [ ] Contribuir para projetos Open Source
-
----
-
-```bash
-while(alive){
-    learn();
-    build();
-    improve();
-}
+```python
+while True:
+    learn()
+    build()
+    improve()
 ```
 
-<p align="center">
-⚡ "A melhor forma de aprender é construir."
-</p>
+</div>
