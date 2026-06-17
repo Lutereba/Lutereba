@@ -41,26 +41,6 @@ I enjoy turning ideas into real projects, solving problems, and constantly chall
 
 ---
 
-## 🚀 Featured Projects
-
-### 📂 Download Organizer
-
-Automatic file organization for the Downloads folder using Python.
-
-### 🌐 Network Tools
-
-Network analysis, monitoring and study tools.
-
-### 🤖 Arduino Projects
-
-Automation and embedded systems experiments.
-
-### 🐧 Linux Scripts
-
-Useful scripts for Linux automation and administration.
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -87,7 +67,7 @@ Useful scripts for Linux automation and administration.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luterrbz&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lutereba&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -97,7 +77,7 @@ Useful scripts for Linux automation and administration.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lutereba&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
 
