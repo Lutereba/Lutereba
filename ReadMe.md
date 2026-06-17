@@ -1,81 +1,177 @@
-# 👋 Olá, eu sou o Lucas
+<div align="center">
 
-💻 Estudante de Tecnologia
-🐧 Entusiasta de Linux
-🔒 Interessado em Segurança da Informação
-⚙️ Hardware • Redes • Programação
-🎓 Futuro Engenheiro da Computação
+# 👨‍💻 Lucas | Luterrbz
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Python+Developer;Linux+Enthusiast;Cybersecurity+Student;Hardware+%26+Networks;Future+Computer+Engineer" />
 
-## 🚀 Sobre mim
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Luterrbz&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-Tenho 15 anos e sou apaixonado por tecnologia.
-
-Gosto de entender como os computadores funcionam desde o hardware até o software. Estou sempre estudando novos conceitos, criando projetos e explorando áreas como programação, sistemas Linux, redes de computadores, eletrônica e segurança da informação.
-
-Atualmente desenvolvo projetos para praticar e expandir meus conhecimentos, sempre buscando aprender algo novo.
+</div>
 
 ---
 
-## 🌱 Atualmente estudando
+## 🧑‍💻 About Me
 
-* Python
-* Linux
-* Redes de Computadores
-* Segurança da Informação
-* Eletrônica Básica
-* Estrutura de Dados
-* Engenharia da Computação
+```bash
+$ whoami
 
----
+Name............. Lucas
+Username......... Luterrbz
+Age.............. 15
+Country.......... Brazil
 
-## 🛠️ Tecnologias
+Interests:
+├── Python
+├── Linux
+├── Hardware
+├── Networking
+├── Cybersecurity
+└── Computer Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-
----
-
-## 📂 Projetos em destaque
-
-🔹 **Download Organizer**
-
-> Organizador automático de arquivos para a pasta Downloads.
-
-🔹 **Arduino Projects**
-
-> Experimentos e automações utilizando Arduino.
-
-🔹 **Linux Scripts**
-
-> Scripts para automação e administração de sistemas Linux.
-
-🔹 **Network Tools**
-
-> Ferramentas e estudos relacionados a redes de computadores.
+Current Status:
+└── Learning something new every day 🚀
+```
 
 ---
 
-## 📊 Estatísticas
+## ⚡ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luterrbz\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz\&layout=compact\&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,arduino,cs,vscode" />
 
----
-
-## 🎯 Objetivos
-
-* Aprender cada vez mais sobre tecnologia
-* Criar projetos úteis e interessantes
-* Contribuir para projetos open source
-* Trabalhar com Engenharia da Computação e Cybersecurity
+</div>
 
 ---
 
-> "A melhor forma de aprender tecnologia é construindo."
+## 🌱 Currently Learning
+
+```yaml
+Programming:
+  - Python
+  - C#
+
+Operating Systems:
+  - Linux
+  - Windows
+
+Technology:
+  - Networking
+  - Cybersecurity
+  - Hardware
+  - Electronics
+  - Computer Engineering
+
+Future Goals:
+  - Machine Learning
+  - Reverse Engineering
+  - Ethical Hacking
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 📂 Download Organizer
+
+Automatic file organizer for the Downloads folder using Python.
+
+### 🌐 Network Tools
+
+Network analysis and discovery tools.
+
+### 🤖 Arduino Projects
+
+Automation and embedded systems experiments.
+
+### 🐧 Linux Scripts
+
+Useful Linux automation and administration scripts.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luterrbz&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luterrbz&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Roadmap 2026
+
+```text
+[✓] Learn Linux Basics
+[✓] Learn Python Basics
+[✓] Learn Git & GitHub
+
+[ ] Improve Networking Skills
+[ ] Create Larger Projects
+[ ] Learn More Cybersecurity
+[ ] Learn Advanced Python
+[ ] Contribute to Open Source
+[ ] Start Computer Engineering
+```
+
+---
+
+## 💡 Philosophy
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    improve();
+}
+```
+
+<div align="center">
+
+### ⚡ "The best way to learn is by building."
+
+</div>
+
+---
+
+<div align="center">
+
+🐍 Python • 🐧 Linux • 🌐 Networks • 🔒 Cybersecurity • ⚙️ Hardware
+
+</div>
