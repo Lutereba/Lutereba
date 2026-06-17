@@ -4,47 +4,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Python+Developer;Linux+Enthusiast;Cybersecurity+Student;Hardware+%26+Networks;Future+Computer+Engineer" />
 
-<img src="https://komarev.com/ghpvc/?username=Luterrbz&label=Profile+Views&color=00C8FF&style=for-the-badge"/>
-
 </div>
 
----
+# 👋 Hey, I'm Lucas
 
-## 🧑‍💻 About Me
+💻 Technology Enthusiast • 🐍 Python Developer • 🐧 Linux User • 🌐 Network Student • 🔒 Cybersecurity Enthusiast
 
-```bash
-┌──(lucas㉿luterrbz)-[~/profile]
-└─$ whoami
+I'm a 15-year-old student from Brazil passionate about technology and engineering.
 
-Lucas
+What started as curiosity about computers quickly turned into a passion for understanding how technology works behind the scenes. Today, I spend most of my time building projects, studying programming, exploring Linux, learning about computer networks, hardware, and cybersecurity.
 
-┌──(lucas㉿luterrbz)-[~/profile]
-└─$ cat about.txt
+I enjoy turning ideas into real projects, solving problems, and constantly challenging myself to learn something new.
 
-👤 Name: Lucas
-🎂 Age: 15
-🌎 Country: Brazil
-
-💻 Main Language:
-└── Python
-
-🐧 Favorite Operating System:
-└── Linux
-
-📚 Currently Learning:
-├── Python
-├── Linux
-├── Networking
-├── Cybersecurity
-├── Electronics
-└── Computer Engineering
-
-🎯 Goal:
-└── Become a Computer Engineer
-
-🚀 Status:
-└── Building projects and learning every day
-```
+🚀 **Always learning. Always building.**
 
 ---
 
@@ -58,28 +30,14 @@ Lucas
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Currently Learning
 
-```yaml
-Programming:
-  - Python
-  - C#
-
-Operating Systems:
-  - Linux
-  - Windows
-
-Technology:
-  - Networking
-  - Cybersecurity
-  - Hardware
-  - Electronics
-
-Future:
-  - Machine Learning
-  - Reverse Engineering
-  - Ethical Hacking
-```
+* Computer Networks
+* Cybersecurity
+* Linux Administration
+* Electronics
+* Computer Engineering
+* Advanced Python
 
 ---
 
@@ -87,19 +45,19 @@ Future:
 
 ### 📂 Download Organizer
 
-Automatic Downloads folder organizer built with Python.
+Automatic file organization for the Downloads folder using Python.
 
 ### 🌐 Network Tools
 
-Tools and studies related to computer networks.
+Network analysis, monitoring and study tools.
 
 ### 🤖 Arduino Projects
 
-Automation and electronics projects.
+Automation and embedded systems experiments.
 
 ### 🐧 Linux Scripts
 
-Useful Linux administration and automation scripts.
+Useful scripts for Linux automation and administration.
 
 ---
 
@@ -107,9 +65,9 @@ Useful Linux administration and automation scripts.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -125,17 +83,7 @@ Useful Linux administration and automation scripts.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -145,48 +93,32 @@ Useful Linux administration and automation scripts.
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Snake animation](https://github.com/Luterrbz/Luterrbz/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
 
 ---
 
-## 🎯 Roadmap 2026
+## 🎯 2026 Goals
 
-```text
-[✓] Learn Linux Basics
-[✓] Learn Python Basics
-[✓] Learn Git & GitHub
-[✓] Learn Arduino Basics
-
-[ ] Improve Networking Skills
-[ ] Build Larger Projects
-[ ] Learn Advanced Cybersecurity
-[ ] Learn Advanced Python
-[ ] Contribute to Open Source
-[ ] Start Computer Engineering
-```
+* [ ] Improve my networking skills
+* [ ] Build larger projects
+* [ ] Learn more about cybersecurity
+* [ ] Master Python
+* [ ] Contribute to open source projects
+* [ ] Start my Computer Engineering journey
 
 ---
 
-## 💡 Philosophy
-
-```cpp
-while(alive)
-{
-    learn();
-    build();
-    improve();
-}
-```
-
 <div align="center">
 
-### ⚡ "The best way to learn is by building."
+### 💡 Favorite Quote
+
+*"The best way to learn is by building."*
 
 </div>
 
