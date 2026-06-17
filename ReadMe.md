@@ -1,144 +1,81 @@
-<div align="center">
+# 👋 Olá, eu sou o Lucas
 
-# 👨‍💻 Lucas | Luterrbz
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Python+Developer;Linux+Enthusiast;Cybersecurity+Student;Future+Computer+Engineer" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-```bash
-$ whoami
-
-Name: Lucas
-Age: 15
-Country: Brazil
-Username: Luterrbz
-
-Interests:
-├── Python
-├── Linux
-├── Hardware
-├── Networking
-├── Cybersecurity
-└── Computer Engineering
-```
+💻 Estudante de Tecnologia
+🐧 Entusiasta de Linux
+🔒 Interessado em Segurança da Informação
+⚙️ Hardware • Redes • Programação
+🎓 Futuro Engenheiro da Computação
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Sobre mim
 
-<div align="center">
+Tenho 15 anos e sou apaixonado por tecnologia.
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,arduino,cs,vscode" />
+Gosto de entender como os computadores funcionam desde o hardware até o software. Estou sempre estudando novos conceitos, criando projetos e explorando áreas como programação, sistemas Linux, redes de computadores, eletrônica e segurança da informação.
 
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```yaml
-Programming:
-  - Python
-  - C#
-
-Operating Systems:
-  - Linux
-  - Windows
-
-Technology:
-  - Networking
-  - Cybersecurity
-  - Hardware
-  - Electronics
-  - Computer Engineering
-```
+Atualmente desenvolvo projetos para praticar e expandir meus conhecimentos, sempre buscando aprender algo novo.
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Atualmente estudando
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luterrbz&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luterrbz&theme=tokyonight"/>
-
-</div>
+* Python
+* Linux
+* Redes de Computadores
+* Segurança da Informação
+* Eletrônica Básica
+* Estrutura de Dados
+* Engenharia da Computação
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tecnologias
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luterrbz&theme=tokyonight&no-frame=true&row=1"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luterrbz&theme=tokyo-night"/>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projetos em destaque
 
-### 📁 Download Organizer
+🔹 **Download Organizer**
 
-Organizador automático da pasta Downloads utilizando Python.
+> Organizador automático de arquivos para a pasta Downloads.
 
-### 🌐 Network Tools
+🔹 **Arduino Projects**
 
-Ferramentas para análise e estudos de redes.
+> Experimentos e automações utilizando Arduino.
 
-### 🤖 Arduino Projects
+🔹 **Linux Scripts**
 
-Projetos de automação e eletrônica.
+> Scripts para automação e administração de sistemas Linux.
 
-### 🐧 Linux Scripts
+🔹 **Network Tools**
 
-Scripts para automação de tarefas no Linux.
-
----
-
-## 🎯 Goals
-
-* Learn more about Cybersecurity
-* Build larger projects
-* Improve Python skills
-* Contribute to Open Source
-* Become a Computer Engineer
+> Ferramentas e estudos relacionados a redes de computadores.
 
 ---
 
-<div align="center">
+## 📊 Estatísticas
 
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luterrbz\&show_icons=true\&theme=tokyonight)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luterrbz\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Objetivos
+
+* Aprender cada vez mais sobre tecnologia
+* Criar projetos úteis e interessantes
+* Contribuir para projetos open source
+* Trabalhar com Engenharia da Computação e Cybersecurity
+
+---
+
+> "A melhor forma de aprender tecnologia é construindo."
