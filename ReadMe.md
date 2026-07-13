@@ -2,13 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00C8FF&text=Lucas%20%7C%20Luterrbz&fontColor=FFFFFF&fontSize=50&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Python+Developer;Linux+Student;Hardware+%26+Networks;Future+Computer+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=cpp+Developer;Linux+Student;Hardware+%26+Networks;Future+Computer+Engineer" />
 
 </div>
 
 # 👋 Hey, I'm Lucas
 
-💻 Technology Enthusiast • 🐍 Python Developer • 🐧 Linux User • 🌐 Network Student 
+💻 Technology Enthusiast • 🛠️ c++ Developer • 🐧 Linux User • 🌐 Network Student 
 
 I'm a 15-year-old student from Brazil passionate about technology and engineering.
 
@@ -24,7 +24,7 @@ I enjoy turning ideas into real projects, solving problems, and constantly chall
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,arduino,cs,vscode,cpp" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,arduino,visualstudio,cpp" />
 
 </div>
 
@@ -36,7 +36,7 @@ I enjoy turning ideas into real projects, solving problems, and constantly chall
 * Linux Administration
 * Electronics
 * Computer Engineering
-* C#
+* C++
 
 ---
 
@@ -94,7 +94,7 @@ I enjoy turning ideas into real projects, solving problems, and constantly chall
 
 <div align="center">
 
-🐍 Python • 🐧 Linux • 🌐 Networks • 🔒 Cybersecurity • ⚙️ Hardware • C#
+ • 🐧 Linux • 🌐 Networks • ⚙️ Hardware • C++
 
 </div>
 
