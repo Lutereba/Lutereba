@@ -24,7 +24,7 @@ I enjoy turning ideas into real projects, solving problems, and constantly chall
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,arduino,visualStudio,cpp" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,arduino,visualStudio,cpp"/>
 
 </div>
 
